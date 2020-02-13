@@ -1,0 +1,95 @@
+#main_content {
+  width: 1000px;
+  height: 800px;
+  margin : 50px auto;
+  background-color: #f0f0f0;
+  /* border : 1px solid black; */
+  border-radius: 70px 70px 70px 70px;
+  position: relative;
+}
+
+#joinInfo {
+  /* height: 200px; */
+  /* border: 1px solid black; */
+  text-align: center;
+  padding : 30px;
+  font-size: 20pt;
+  position: relative;
+}
+
+#divInfo {
+  border-top : 1px solid lightgray;
+  border-bottom : 1px solid lightgray;
+  padding : 15px;
+  /* margin : 0 auto; */
+  width : 50%;
+}
+
+#divMain {
+  width: 900px;
+  height: 800px;
+  margin : 50px auto;
+  position: relative;
+}
+
+#divModify {
+  width: 900px;
+  height: 800px;
+  margin : 50px auto;
+  position: relative;
+}
+
+table {
+  borderCollapse : collapse;
+  width: 900px;
+  margin : 0px auto;
+}
+
+tr {
+  border : 1px solid lightgray;
+}
+
+td {
+  padding : 3px;
+  padding-left : 10px;
+  padding-right : 30px;
+}
+
+.tdFirst {
+  background-color : #f7f7f7;
+  font-weight : bold;
+  color : #7e7e7e;
+}
+
+.spanInfo {
+  color : red;
+}
+
+input {
+  margin : 7px;
+}
+
+h3 {
+  text-align : center;
+  margin-bottom : 50px;
+}
+
+h4 {
+  margin : 0px;
+  margin-bottom : 10px;
+  margin : 0 auto;
+  width : 50%;
+}
+
+#btnNext {
+  position : absolute;
+  margin-top: 70px;
+  margin-left: 230px;
+  padding : 15px;
+  width: 400px;
+  font-size: 15pt;
+  font-weight: bold;
+
+  background-color: skyblue;
+  border-radius: 70px 70px 70px 70px;
+}

@@ -1,0 +1,75 @@
+#divLogin {
+  margin : 0 auto;
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+  border-radius: 50px 50px 50px 50px;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+#divHeader span{
+  font-size: 25pt;
+  font-weight: bold;
+  margin-top: 40px;
+  position: absolute;
+  transform: translatex(-50%);
+}
+
+#divForm{
+  margin-top: 20px;
+  width: 500px;
+  height: 400px;
+  position: absolute;
+}
+
+.inputIdPw {
+width: 350px;
+height: 50px;
+}
+
+#div-Input {
+  height: 50%;
+  margin-top: 100px;
+}
+
+#inputId {
+  margin-bottom: 10px;
+}
+
+#inputPw {
+  margin-bottom: 30px;
+}
+
+#btnLogin {
+  width: 354px;
+  height: 50px;
+  margin-bottom: 20px;
+  padding : 11px;
+  background-color: skyblue;
+  font-size: 15pt;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#div-Keep {
+  margin-bottom: 2px;
+  margin-top: 25px;
+}
+
+#msg {
+  font-size: 12px;
+}
+
+#div-buttons {
+width: 500px;
+margin-top: 15px;
+}
+
+.btn {
+  border-radius: 15px 15px 15px 15px;
+  padding: 5px;
+  margin-left: 12px;
+  background-color: lightgray;
+  width: 100px;
+  height: 35px;
+}
